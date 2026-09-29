@@ -1,0 +1,6 @@
+{
+  "name": "EYA BDE",
+  "description": "Portail web du Bureau des Étudiants d'Africa Design School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
