@@ -36,7 +36,7 @@ const team: TeamMember[] = [
     email: "vianneytagnonadambadji@gmail.com"
   },
   {
-    role: "Responsable Événementiel et Vice Présidente",
+    role: "Vice Présidente et Responsable Événementiel",
     name: "Zirwath MACHIOUDI",
     image: "https://i.imgur.com/mrtzptZ.png",
     fallback: "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?auto=format&fit=crop&q=80&w=600",
