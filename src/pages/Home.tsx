@@ -212,19 +212,11 @@ export default function Home() {
                 </div>
 
                 <div className="w-full aspect-[4/5] rounded-2xl overflow-hidden bg-slate-900/60 border border-white/10 flex items-center justify-center relative">
-                  {/* Photo goodie (en attente du lien direct) */}
-                  <div className="flex flex-col items-center justify-center p-6 text-center text-slate-300">
-                    <div className="w-20 h-20 rounded-2xl bg-eyayellow/20 flex items-center justify-center mb-4 shadow-inner border border-eyayellow/30 animate-pulse">
-                      <Gift size={32} className="text-eyayellow" />
-                    </div>
-                    <p className="font-black text-white text-lg">Goodie Collector Noël</p>
-                    <p className="text-xs text-slate-300 mt-2 max-w-[220px] leading-relaxed">
-                      Votez pour nous au BDE et recevez votre goodie exclusif au Marché de Noël !
-                    </p>
-                    <div className="mt-4 px-3 py-1 bg-white/10 rounded-full text-[10px] font-bold text-eyayellow tracking-wider uppercase">
-                      Surprise révélée très bientôt
-                    </div>
-                  </div>
+                  <img
+                    src="/goodie.jpeg"
+                    alt="Goodie Collector Noël"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
 
                 <div className="mt-4 text-center">

@@ -10,10 +10,10 @@ export default function Hero() {
         transition={{ duration: 0.8 }}
         aria-labelledby="hero-title"
       >
-        <h1 id="hero-title" className="text-5xl md:text-6xl font-black text-white drop-shadow-md">
+        <h1 id="hero-title" className="text-5xl md:text-6xl font-black text-eyablue drop-shadow-md">
           Bienvenue à EYA BDE
         </h1>
-        <p className="mt-4 text-lg md:text-xl text-white opacity-90">
+        <p className="mt-4 text-lg md:text-xl text-eyablue opacity-90">
           Le portail officiel du Bureau des Étudiants – où l’énergie, l’innovation et la communauté se rencontrent.
         </p>
       </motion.div>
