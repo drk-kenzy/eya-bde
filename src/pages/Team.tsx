@@ -36,20 +36,18 @@ const team: TeamMember[] = [
     email: "vianneytagnonadambadji@gmail.com"
   },
   {
-    role: "Vice-Présidente",
-    name: "FATIM KOBRE",
-    image: "https://i.imgur.com/XOTOO0o.jpeg",
-    fallback: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=600",
-    tagline: "Designer d’objet & Entrepreneuse créative (E KARO KO) • Candidate à la vice-présidence",
-    quote: "Créer, rassembler et faire émerger de nouvelles idées qui ont du sens et qui traversent les générations.",
+    role: "Responsable Événementiel et Vice Présidente",
+    name: "Zirwath MACHIOUDI",
+    image: "https://i.imgur.com/mrtzptZ.png",
+    fallback: "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?auto=format&fit=crop&q=80&w=600",
+    tagline: "Responsable filière Design d'espace • Leadership & Organisation événementielle",
+    quote: "Son leadership, son sens de l’organisation et son énergie au cœur de nos événements.",
     bio: [
-      "Étudiante en troisième année de Design d’objet et entrepreneuse créative, FATIM KOBRE est candidate à la vice-présidence du BDE.",
-      "À travers sa marque E KARO KO, récemment lancée, elle explore la rencontre entre culture, créativité et identité, avec l'ambition de créer des propositions capables de traverser les générations.",
-      "Curieuse, créative et profondément attachée à la valeur culturelle du design, elle cherche à transformer les idées en projets qui ont du sens et qui peuvent laisser une véritable empreinte.",
-      "Elle rejoint cette équipe avec l’envie de créer, de rassembler et de faire émerger de nouvelles idées."
-    ],
-    instagram: "https://www.instagram.com/ftm_2ee?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==",
-    instagramHandle: "@ftm_2ee"
+      "Elle est étudiante et une habituée des responsabilités collectives.",
+      "De ses années d’études jusqu’à aujourd’hui, elle a régulièrement occupé des rôles de responsabilité et participé à l’organisation et à la réalisation de différents projets.",
+      "Actuellement responsable de la filière Design d’espace au sein de sa promotion, elle sait mobiliser, organiser et accompagner un groupe autour d’un objectif commun.",
+      "Son leadership, son sens de l’organisation et son énergie seront au cœur de la conception et de la réalisation de nos événements."
+    ]
   },
   {
     role: "Secrétaire Générale",
@@ -96,20 +94,6 @@ const team: TeamMember[] = [
     ],
     instagram: "https://www.instagram.com/brayann_n_?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==",
     instagramHandle: "@brayann_n_"
-  },
-  {
-    role: "Responsable Événementiel",
-    name: "Zirwath MACHIOUDI",
-    image: "https://i.imgur.com/mrtzptZ.png",
-    fallback: "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?auto=format&fit=crop&q=80&w=600",
-    tagline: "Responsable filière Design d'espace • Leadership & Organisation événementielle",
-    quote: "Son leadership, son sens de l’organisation et son énergie au cœur de nos événements.",
-    bio: [
-      "Elle est étudiante et une habituée des responsabilités collectives.",
-      "De ses années d’études jusqu’à aujourd’hui, elle a régulièrement occupé des rôles de responsabilité et participé à l’organisation et à la réalisation de différents projets.",
-      "Actuellement responsable de la filière Design d’espace au sein de sa promotion, elle sait mobiliser, organiser et accompagner un groupe autour d’un objectif commun.",
-      "Son leadership, son sens de l’organisation et son énergie seront au cœur de la conception et de la réalisation de nos événements."
-    ]
   }
 ];
 
